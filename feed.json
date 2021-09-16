@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "DSA",
+    "description": "",
+    "home_page_url": "https://andrew-dsa.github.io/pages",
+    "feed_url": "https://andrew-dsa.github.io/pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Andrew"
+    },
+    "items": [
+        {
+            "id": "https://andrew-dsa.github.io/pages/hello-world.html",
+            "url": "https://andrew-dsa.github.io/pages/hello-world.html",
+            "title": "Hello world",
+            "summary": " This is a test ",
+            "content_html": "\n  <p>\n    This is a test\n  </p>",
+            "author": {
+                "name": "Andrew"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-09-16T18:14:32+01:00",
+            "date_modified": "2021-09-16T18:14:32+01:00"
+        }
+    ]
+}
