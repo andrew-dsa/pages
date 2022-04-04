@@ -3,12 +3,32 @@
     <title>DataConnect22</title>
     <link href="https://andrew-dsa.github.io/pages/feed.xml" rel="self" />
     <link href="https://andrew-dsa.github.io/pages" />
-    <updated>2022-04-04T15:16:36+01:00</updated>
+    <updated>2022-04-04T19:24:13+01:00</updated>
     <author>
         <name>Andrew</name>
     </author>
     <id>https://andrew-dsa.github.io/pages</id>
 
+    <entry>
+        <title>Introducing DataConnect22</title>
+        <author>
+            <name>Andrew</name>
+        </author>
+        <link href="https://andrew-dsa.github.io/pages/introducing-dataconnect22.html"/>
+        <id>https://andrew-dsa.github.io/pages/introducing-dataconnect22.html</id>
+
+        <updated>2022-04-04T19:24:03+01:00</updated>
+            <summary>
+                <![CDATA[
+                    This year's event will be bigger and better - with sessions from across the UK public sector.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This year's event will be bigger and better - with sessions from across the UK public sector.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Secure your APIs</title>
         <author>
@@ -16,8 +36,9 @@
         </author>
         <link href="https://andrew-dsa.github.io/pages/secure-your-apis.html"/>
         <id>https://andrew-dsa.github.io/pages/secure-your-apis.html</id>
+            <category term="API"/>
 
-        <updated>2022-04-04T15:16:36+01:00</updated>
+        <updated>2022-04-04T19:24:13+01:00</updated>
             <summary>
                 <![CDATA[
                     In this session ...xx odp gjdopg

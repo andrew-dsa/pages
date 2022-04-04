@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://andrew-dsa.github.io/pages/introducing-dataconnect22.html",
+            "url": "https://andrew-dsa.github.io/pages/introducing-dataconnect22.html",
+            "title": "Introducing DataConnect22",
+            "summary": "This year's event will be bigger and better - with sessions from across the UK public sector.",
+            "content_html": "<p>This year's event will be bigger and better - with sessions from across the UK public sector.</p>",
+            "author": {
+                "name": "Andrew"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-04T19:23:59+01:00",
+            "date_modified": "2022-04-04T19:24:03+01:00"
+        },
+        {
             "id": "https://andrew-dsa.github.io/pages/secure-your-apis.html",
             "url": "https://andrew-dsa.github.io/pages/secure-your-apis.html",
             "title": "Secure your APIs",
@@ -19,9 +33,10 @@
                 "name": "Andrew"
             },
             "tags": [
+                   "API"
             ],
             "date_published": "2022-04-04T15:12:44+01:00",
-            "date_modified": "2022-04-04T15:16:36+01:00"
+            "date_modified": "2022-04-04T19:24:13+01:00"
         },
         {
             "id": "https://andrew-dsa.github.io/pages/test-post.html",
