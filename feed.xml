@@ -3,12 +3,32 @@
     <title>DSA</title>
     <link href="https://andrew-dsa.github.io/pages/feed.xml" rel="self" />
     <link href="https://andrew-dsa.github.io/pages" />
-    <updated>2021-09-20T13:35:40+01:00</updated>
+    <updated>2022-04-04T15:12:58+01:00</updated>
     <author>
         <name>Andrew</name>
     </author>
     <id>https://andrew-dsa.github.io/pages</id>
 
+    <entry>
+        <title>Secure your APIs</title>
+        <author>
+            <name>Andrew</name>
+        </author>
+        <link href="https://andrew-dsa.github.io/pages/secure-your-apis.html"/>
+        <id>https://andrew-dsa.github.io/pages/secure-your-apis.html</id>
+
+        <updated>2022-04-04T15:12:58+01:00</updated>
+            <summary>
+                <![CDATA[
+                    In this session ...xx odp gjdopg
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>In this session ...xx odp gjdopg</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Test post</title>
         <author>
@@ -17,10 +37,10 @@
         <link href="https://andrew-dsa.github.io/pages/test-post.html"/>
         <id>https://andrew-dsa.github.io/pages/test-post.html</id>
 
-        <updated>2021-09-20T11:46:40+01:00</updated>
+        <updated>2021-09-21T00:13:33+01:00</updated>
             <summary>
                 <![CDATA[
-                    Introduction and background This strategy sets out the vision and ambition of the Data Standards Authority. It articulates the role of the Authority and its&hellip;
+                    Introduction and background This strategy sets out the vision and ambition of the Data Standards Authority. It articulates the role of the Authority and its priorities, including key deliverables and the way it will work across government and the public sector to deliver results. The aims and ambitions of the&hellip;
                 ]]>
             </summary>
         <content type="html">
