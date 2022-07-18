@@ -3,7 +3,7 @@
     <title>DataConnect22</title>
     <link href="https://andrew-dsa.github.io/pages/feed.xml" rel="self" />
     <link href="https://andrew-dsa.github.io/pages" />
-    <updated>2022-04-04T19:24:13+01:00</updated>
+    <updated>2022-07-18T22:53:44+01:00</updated>
     <author>
         <name>Andrew</name>
     </author>
@@ -38,15 +38,19 @@
         <id>https://andrew-dsa.github.io/pages/secure-your-apis.html</id>
             <category term="API"/>
 
-        <updated>2022-04-04T19:24:13+01:00</updated>
+        <updated>2022-07-18T22:53:44+01:00</updated>
             <summary>
                 <![CDATA[
-                    In this session ...xx odp gjdopg
+                        <img src="https://andrew-dsa.github.io/pages/media/posts/3/cyber-security-gd8e39449e_640-2.jpg" alt="" />
+                    In this session ...xx odp gjdopg 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://andrew-dsa.github.io/pages/media/posts/3/cyber-security-gd8e39449e_640-2.jpg" alt="" />
                 <p>In this session ...xx odp gjdopg</p>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://andrew-dsa.github.io/pages/media/posts/3/cyber-security-gd8e39449e_640.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://andrew-dsa.github.io/pages/media/posts/3/responsive/cyber-security-gd8e39449e_640-xs.jpg 300w ,https://andrew-dsa.github.io/pages/media/posts/3/responsive/cyber-security-gd8e39449e_640-sm.jpg 480w ,https://andrew-dsa.github.io/pages/media/posts/3/responsive/cyber-security-gd8e39449e_640-md.jpg 768w ,https://andrew-dsa.github.io/pages/media/posts/3/responsive/cyber-security-gd8e39449e_640-lg.jpg 1024w ,https://andrew-dsa.github.io/pages/media/posts/3/responsive/cyber-security-gd8e39449e_640-xl.jpg 1360w ,https://andrew-dsa.github.io/pages/media/posts/3/responsive/cyber-security-gd8e39449e_640-2xl.jpg 1600w"  alt="security-padlock" width="640" height="384"></figure>
             ]]>
         </content>
     </entry>
